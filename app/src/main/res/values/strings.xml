@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">筋トレタイマー</string>
+    <string name="channel_name">タイマーの進行状況</string>
+    <string name="pause">一時停止</string>
+    <string name="resume">再開</string>
+    <string name="next">次へ</string>
+    <string name="quit">終了</string>
+    <string name="prep">準備</string>
+    <string name="rest">休憩</string>
+    <string name="paused">一時停止中</string>
+    <string name="done">おつかれさまでした</string>
+    <string name="next_is">次は %s</string>
+</resources>
